@@ -74,9 +74,10 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  cursor: pointer;
 }
 .main-ti {
-  background-color: #4d5ae5;
+  background-color: #404bbf;
 }
 .main-ti {
   font-weight: 500;
@@ -134,6 +135,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .section-item {
   font-weight: 500;
