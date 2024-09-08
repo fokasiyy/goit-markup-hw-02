@@ -80,7 +80,8 @@ ol {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.main-ti:hover {
+.main-ti:hover,
+.main-ti:focus {
   background-color: #404bbf;
 }
 .main-ti {
