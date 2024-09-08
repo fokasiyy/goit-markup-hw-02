@@ -78,6 +78,8 @@ ol {
 }
 .main-ti {
   background-color: #404bbf;
+  background-color: #4d5ae5;
+  cursor: pointer;
 }
 .main-ti {
   font-weight: 500;
