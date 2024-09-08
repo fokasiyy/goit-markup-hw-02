@@ -65,7 +65,7 @@ ol {
   background-color: #2e2f42;
 }
 .secrion-three {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .logo-main {
   font-weight: 700;
@@ -74,6 +74,10 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+}
+.main-ti {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
 }
 .main-ti {
   font-weight: 500;
@@ -95,6 +99,19 @@ ol {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.secrion-team {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.section-foto {
+  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
+    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+  background-color: #fff;
 }
 .section-name {
   font-weight: 500;
